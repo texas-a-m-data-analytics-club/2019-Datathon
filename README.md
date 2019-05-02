@@ -1,2 +1,2 @@
 # DataScience
-Directory contains scripts for preprocessing data and creating predictive statistical models. 
+Directory contains scripts for preprocessing dataset and creating predictive statistical models. 
